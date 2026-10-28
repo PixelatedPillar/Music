@@ -4,7 +4,6 @@
   "description": "A source for iOS Vitrine + Pixie with some added app icons",
   "iconURL": "https://i.imgur.com/GWq54yK.png",
   "website": "https://github.com/PixelatedPillar/Music",
-  "patreonURL": "",
   "tintColor": "#1db954",
   "featuredApps": [
     "com.spotify.client"
