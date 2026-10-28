@@ -17,17 +17,17 @@
       "developerName": "MyNameIsJeff",
       "subtitle": "",
       "localizedDescription": "A fork of Chroma, an iOS Spotify tweak that gives you free premium, extra customizability, and a lot more cool features.",
-      "iconURL": "https://i.imgur.com/4j7tZwh.png",
+      "iconURL": "https://i.imgur.com/oDaOCJ2.png",
       "tintColor": "#04e154",
       "category": "utilities",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/PixelatedPillar/Music/releases/download/music/Spotify-9.1.90-Vitrine-b16-Pixie-v1.3-icons.ipa",
-          "size": 140500000,
+          "downloadURL": "https://www.dropbox.com/scl/fi/6e3en8uabhcmrj3iccoly/Vitrine_Pixie.ipa?rlkey=1th4n6op18jjiq8rtoah2k6mi&st=8y62c64e&dl=1",
+          "size": 133950000,
           "version": "9.1.90",
           "buildVersion": "v1.0.0-beta.16",
-          "date": "2026-10-28T03:37:00+08:00",
+          "date": "2026-10-27T11:37:00+08:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
