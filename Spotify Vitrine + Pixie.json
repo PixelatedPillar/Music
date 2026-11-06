@@ -19,11 +19,11 @@
       "category": "utilities",
       "versions": [
         {
-          "downloadURL": "https://www.dropbox.com/scl/fi/6e3en8uabhcmrj3iccoly/Vitrine_Pixie.ipa?rlkey=1th4n6op18jjiq8rtoah2k6mi&st=l8e98f0m&dl=1",
-          "size": 140928614,
+          "downloadURL": "https://www.dropbox.com/scl/fi/6e3en8uabhcmrj3iccoly/Vitrine_Pixie.ipa?rlkey=1th4n6op18jjiq8rtoah2k6mi&st=jlbmcu8f&dl=1",
+          "size": 141693949,
           "version": "9.1.90",
-          "date": "2026-11-01T12:39:00+08:00",
-          "localizedDescription": "5 new app icons added for extra customizability.",
+          "date": "2026-11-01T05:30:00+08:00",
+          "localizedDescription": "Updated Pixie to Version 1.4 (A clean install is REQUIRED).",
           "minOSVersion": "16.1"
         }
       ],
@@ -54,11 +54,20 @@
   "news": [
     {
       "title": "Vitrine More App Icons!",
+      "identifier": "news_pixieupdate",
+      "caption": "Pixie Download Manager has been updated to version 1.4, the newest version. NOTE: To update, do a clean install. Please delete and reinstall the ipa to do so.",
+      "date": "2026-11-01T05:30:00+08:00",
+      "tintColor": "#1db954",
+      "notify": true,
+      "appID": "com.spotify.client"
+    },
+    {
+      "title": "Vitrine More App Icons!",
       "identifier": "news_appicon",
       "caption": "Added 5 more new app icons, found in the appearance tab. NOTE: To update, please delete and reinstall the ipa.",
       "date": "2026-11-01T12:39:00+08:00",
       "tintColor": "#1db954",
-      "notify": true,
+      "notify": false,
       "appID": "com.spotify.client"
     },
     {
